@@ -13,6 +13,13 @@ The system automatically generates **financial reports** and provides **visualiz
 
 ---
 
+## Demo Video
+
+https://github.com/user-attachments/assets/8a51f9a2-c898-43ef-a77e-d28af295e07c
+
+
+---
+
 ## Features
 
 **Add and View Transactions**  
