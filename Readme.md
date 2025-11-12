@@ -52,7 +52,6 @@ ExpenseTracker/
 ├── analysis.py # Contains financial analysis functions  
 ├── visualization.py # Generates spending charts and plots  
 ├── main.py # Main Tkinter GUI application  
-│
 ├── expenses.db # SQLite database (auto-created)  
 ├── requirements.txt # List of dependencies   
 └── README.md # Project documentation  
